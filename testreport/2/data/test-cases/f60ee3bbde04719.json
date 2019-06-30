@@ -1,12 +1,12 @@
 {
-  "uid" : "1a504380be57d06c",
+  "uid" : "f60ee3bbde04719",
   "name" : "test_jenkins_pytest",
   "fullName" : "testcases.test_case.Testjenkins#test_jenkins_pytest",
   "historyId" : "24d10f3e90de89c4ac9ee9989f94a812",
   "time" : {
-    "start" : 1561870751925,
-    "stop" : 1561870754559,
-    "duration" : 2634
+    "start" : 1561886052075,
+    "stop" : 1561886054838,
+    "duration" : 2763
   },
   "status" : "passed",
   "flaky" : false,
@@ -15,11 +15,11 @@
   "testStage" : {
     "status" : "passed",
     "steps" : [ {
-      "name" : "测试",
+      "name" : "测试hhhhhhhhhhh",
       "time" : {
-        "start" : 1561870751925,
-        "stop" : 1561870754559,
-        "duration" : 2634
+        "start" : 1561886052075,
+        "stop" : 1561886054838,
+        "duration" : 2763
       },
       "status" : "passed",
       "steps" : [ ],
@@ -30,23 +30,17 @@
       "shouldDisplayMessage" : false,
       "hasContent" : false
     } ],
-    "attachments" : [ {
-      "uid" : "ef22651693b80f56",
-      "name" : "log",
-      "source" : "ef22651693b80f56.txt",
-      "type" : "text/plain",
-      "size" : 1191
-    } ],
+    "attachments" : [ ],
     "parameters" : [ ],
     "stepsCount" : 1,
-    "attachmentsCount" : 1,
+    "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
     "hasContent" : true
   },
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "feature",
-    "value" : "好爸爸"
+    "value" : "好爸爸hhhhhhhh"
   }, {
     "name" : "parentSuite",
     "value" : "testcases"
@@ -61,7 +55,7 @@
     "value" : "192.168.1.8"
   }, {
     "name" : "thread",
-    "value" : "2267-MainThread"
+    "value" : "4353-MainThread"
   }, {
     "name" : "framework",
     "value" : "pytest"
@@ -81,18 +75,10 @@
   "retry" : false,
   "extra" : {
     "severity" : "normal",
-    "retries" : [ {
-      "uid" : "13eaa58222e5f337",
-      "status" : "passed",
-      "time" : {
-        "start" : 1561870719006,
-        "stop" : 1561870721578,
-        "duration" : 2572
-      }
-    } ],
+    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "1a504380be57d06c.json",
+  "source" : "f60ee3bbde04719.json",
   "parameterValues" : [ ]
 }

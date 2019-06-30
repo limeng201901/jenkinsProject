@@ -28,3 +28,12 @@
 2019-06-30 12:59:14,558 urllib3.connectionpool DEBUG connectionpool:396 http://127.0.0.1:57804 "POST /session/8a6e1d683af979b2a6947736edf1aa56/url HTTP/1.1" 200 72
 2019-06-30 12:59:14,558 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
 2019-06-30 12:59:14,563 root INFO runner:38 End to execute APP UI automaction cases
+2019-06-30 16:48:39,797 root INFO runner:24 Start to execute  automation cases
+2019-06-30 16:48:41,031 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:59889/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2019-06-30 16:48:41,032 urllib3.connectionpool DEBUG connectionpool:206 Starting new HTTP connection (1): 127.0.0.1:59889
+2019-06-30 16:48:41,955 urllib3.connectionpool DEBUG connectionpool:396 http://127.0.0.1:59889 "POST /session HTTP/1.1" 200 904
+2019-06-30 16:48:41,956 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2019-06-30 16:48:41,956 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:59889/session/a8d5d66037bb56220dfaaf2ab9911103/url {"url": "http://www.baidu.com", "sessionId": "a8d5d66037bb56220dfaaf2ab9911103"}
+2019-06-30 16:48:42,491 urllib3.connectionpool DEBUG connectionpool:396 http://127.0.0.1:59889 "POST /session/a8d5d66037bb56220dfaaf2ab9911103/url HTTP/1.1" 200 72
+2019-06-30 16:48:42,492 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2019-06-30 16:48:42,498 root INFO runner:38 End to execute APP UI automaction cases

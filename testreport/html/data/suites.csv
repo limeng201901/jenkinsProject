@@ -1,2 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Jun 30 12:59:11 CST 2019","Sun Jun 30 12:59:14 CST 2019","2634","testcases","test_case","Testjenkins","","","test_jenkins_pytest",""

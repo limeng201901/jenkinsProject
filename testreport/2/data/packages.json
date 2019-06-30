@@ -5,13 +5,13 @@
     "name" : "testcases.test_case",
     "children" : [ {
       "name" : "test_jenkins_pytest",
-      "uid" : "1a504380be57d06c",
+      "uid" : "f60ee3bbde04719",
       "parentUid" : "cd0d8e59b28a7ca3b4f13bc1628db635",
       "status" : "passed",
       "time" : {
-        "start" : 1561870751925,
-        "stop" : 1561870754559,
-        "duration" : 2634
+        "start" : 1561886052075,
+        "stop" : 1561886054838,
+        "duration" : 2763
       },
       "flaky" : false,
       "newFailed" : false,

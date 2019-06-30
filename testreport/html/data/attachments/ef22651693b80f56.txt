@@ -1,7 +1,0 @@
-DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:57804/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
-DEBUG    urllib3.connectionpool:connectionpool.py:206 Starting new HTTP connection (1): 127.0.0.1:57804
-DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:57804 "POST /session HTTP/1.1" 200 904
-DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
-DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:388 POST http://127.0.0.1:57804/session/8a6e1d683af979b2a6947736edf1aa56/url {"url": "http://www.baidu.com", "sessionId": "8a6e1d683af979b2a6947736edf1aa56"}
-DEBUG    urllib3.connectionpool:connectionpool.py:396 http://127.0.0.1:57804 "POST /session/8a6e1d683af979b2a6947736edf1aa56/url HTTP/1.1" 200 72
-DEBUG    selenium.webdriver.remote.remote_connection:remote_connection.py:440 Finished Request
