@@ -1,0 +1,22 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "好爸爸",
+    "children" : [ {
+      "name" : "test_jenkins_pytest",
+      "uid" : "1a504380be57d06c",
+      "parentUid" : "91325d641d4745f21dbb3efc69c9afc4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561870751925,
+        "stop" : 1561870754559,
+        "duration" : 2634
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "91325d641d4745f21dbb3efc69c9afc4"
+  } ]
+}

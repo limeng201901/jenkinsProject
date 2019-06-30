@@ -1,0 +1,30 @@
+2019-06-30 12:20:20,108 root INFO runner:24 Start to execute  automation cases
+2019-06-30 12:50:34,623 root INFO runner:24 Start to execute  automation cases
+2019-06-30 12:50:34,894 root INFO runner:38 End to execute APP UI automaction cases
+2019-06-30 12:52:38,204 root INFO runner:24 Start to execute  automation cases
+2019-06-30 12:52:39,412 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:57688/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2019-06-30 12:52:39,414 urllib3.connectionpool DEBUG connectionpool:206 Starting new HTTP connection (1): 127.0.0.1:57688
+2019-06-30 12:52:40,584 urllib3.connectionpool DEBUG connectionpool:396 http://127.0.0.1:57688 "POST /session HTTP/1.1" 200 904
+2019-06-30 12:52:40,586 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2019-06-30 12:52:40,586 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:57688/session/6c2a3b7e5b5db2d4bcda36e1b828bdf0/url {"url": "http://www.baidu.com", "sessionId": "6c2a3b7e5b5db2d4bcda36e1b828bdf0"}
+2019-06-30 12:52:41,180 urllib3.connectionpool DEBUG connectionpool:396 http://127.0.0.1:57688 "POST /session/6c2a3b7e5b5db2d4bcda36e1b828bdf0/url HTTP/1.1" 200 72
+2019-06-30 12:52:41,180 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2019-06-30 12:52:41,184 root INFO runner:38 End to execute APP UI automaction cases
+2019-06-30 12:58:38,797 root INFO runner:24 Start to execute  automation cases
+2019-06-30 12:58:40,032 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:57772/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2019-06-30 12:58:40,033 urllib3.connectionpool DEBUG connectionpool:206 Starting new HTTP connection (1): 127.0.0.1:57772
+2019-06-30 12:58:40,967 urllib3.connectionpool DEBUG connectionpool:396 http://127.0.0.1:57772 "POST /session HTTP/1.1" 200 904
+2019-06-30 12:58:40,968 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2019-06-30 12:58:40,968 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:57772/session/63e6bfd9eb7e2d8b2b3c4b7b0a1854d6/url {"url": "http://www.baidu.com", "sessionId": "63e6bfd9eb7e2d8b2b3c4b7b0a1854d6"}
+2019-06-30 12:58:41,576 urllib3.connectionpool DEBUG connectionpool:396 http://127.0.0.1:57772 "POST /session/63e6bfd9eb7e2d8b2b3c4b7b0a1854d6/url HTTP/1.1" 200 72
+2019-06-30 12:58:41,577 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2019-06-30 12:58:41,584 root INFO runner:38 End to execute APP UI automaction cases
+2019-06-30 12:59:11,720 root INFO runner:24 Start to execute  automation cases
+2019-06-30 12:59:12,949 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:57804/session {"capabilities": {"firstMatch": [{}], "alwaysMatch": {"browserName": "chrome", "platformName": "any", "goog:chromeOptions": {"extensions": [], "args": []}}}, "desiredCapabilities": {"browserName": "chrome", "version": "", "platform": "ANY", "goog:chromeOptions": {"extensions": [], "args": []}}}
+2019-06-30 12:59:12,951 urllib3.connectionpool DEBUG connectionpool:206 Starting new HTTP connection (1): 127.0.0.1:57804
+2019-06-30 12:59:13,888 urllib3.connectionpool DEBUG connectionpool:396 http://127.0.0.1:57804 "POST /session HTTP/1.1" 200 904
+2019-06-30 12:59:13,889 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2019-06-30 12:59:13,889 selenium.webdriver.remote.remote_connection DEBUG remote_connection:388 POST http://127.0.0.1:57804/session/8a6e1d683af979b2a6947736edf1aa56/url {"url": "http://www.baidu.com", "sessionId": "8a6e1d683af979b2a6947736edf1aa56"}
+2019-06-30 12:59:14,558 urllib3.connectionpool DEBUG connectionpool:396 http://127.0.0.1:57804 "POST /session/8a6e1d683af979b2a6947736edf1aa56/url HTTP/1.1" 200 72
+2019-06-30 12:59:14,558 selenium.webdriver.remote.remote_connection DEBUG remote_connection:440 Finished Request
+2019-06-30 12:59:14,563 root INFO runner:38 End to execute APP UI automaction cases

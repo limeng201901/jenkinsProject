@@ -1,0 +1,11 @@
+[ {
+  "uid" : "1a504380be57d06c",
+  "name" : "test_jenkins_pytest",
+  "time" : {
+    "start" : 1561870751925,
+    "stop" : 1561870754559,
+    "duration" : 2634
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

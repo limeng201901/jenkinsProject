@@ -1,0 +1,22 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "testcases.test_case",
+    "children" : [ {
+      "name" : "test_jenkins_pytest",
+      "uid" : "1a504380be57d06c",
+      "parentUid" : "cd0d8e59b28a7ca3b4f13bc1628db635",
+      "status" : "passed",
+      "time" : {
+        "start" : 1561870751925,
+        "stop" : 1561870754559,
+        "duration" : 2634
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "testcases.test_case"
+  } ]
+}

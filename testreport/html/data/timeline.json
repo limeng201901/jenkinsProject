@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "192.168.1.8",
+    "children" : [ {
+      "name" : "2267-MainThread",
+      "children" : [ {
+        "name" : "test_jenkins_pytest",
+        "uid" : "1a504380be57d06c",
+        "parentUid" : "b619165e8b90fd68cf473dfc0e1a3a87",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561870751925,
+          "stop" : 1561870754559,
+          "duration" : 2634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b619165e8b90fd68cf473dfc0e1a3a87"
+    } ],
+    "uid" : "2746189f4539283e77101692df27a2b6"
+  } ]
+}
